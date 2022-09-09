@@ -1,0 +1,11 @@
+payload:
+  #终点站
+  - DOMAIN-SUFFIX,emby.wtf
+  #misakaf
+  - DOMAIN-SUFFIX,misakaf.org
+  #polo
+  - DOMAIN-SUFFIX,poloemby.xyz
+  #charno
+  - DOMAIN-SUFFIX,charontv.com
+  #general match
+  - DOMAIN-KEYWORD,emby
