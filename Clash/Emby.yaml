@@ -7,5 +7,3 @@ payload:
   - DOMAIN-SUFFIX,poloemby.xyz
   #charno
   - DOMAIN-SUFFIX,charontv.com
-  #general match
-  - DOMAIN-KEYWORD,emby
