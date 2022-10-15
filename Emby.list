@@ -1,9 +1,7 @@
-#终点站
-DOMAIN-SUFFIX,emby.wtf
+#general
+DOMAIN-KEYWORD,emby
 #misakaf
 DOMAIN-SUFFIX,misakaf.org
-#polo
-DOMAIN-SUFFIX,poloemby.xyz
 #charno
 DOMAIN-SUFFIX,charontv.com
 #misty
