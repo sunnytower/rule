@@ -56,8 +56,8 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4},REJECT
 ^https:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
 
 # > 中国银行
-^https?+:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\? - reject-img
-^https:\/\/mbs.boc.cn\/ubas-mgateway-static\/images\/advertType\/ - reject-img
+^https?+:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\? - reject
+^https:\/\/mbs.boc.cn\/ubas-mgateway-static\/images\/advertType\/ - reject
 
 # >微信公众号文章下方广告
 ^https?:\/\/mp\.weixin\.qq.com\/mp\/ad_complaint - reject
