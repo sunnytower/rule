@@ -1,5 +1,7 @@
 #!name=广告过滤
 #!desc=广告过滤
+# 来源（1）https://raw.githubusercontent.com/xOS/Config/Her/Module/General/GeneralRule.sgmodule
+# 来源（2）https://raw.githubusercontent.com/jsj0622/Surge/main/zyzchongxie.sgmodule
 [Rule]
 # > 京东，去启动广告
 URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
