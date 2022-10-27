@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-KEYWORD,emby
+  #misakaf
+  - DOMAIN-SUFFIX,misakaf.org
+  #charno
+  - DOMAIN-SUFFIX,charontv.com
+  #misty
+  - DOMAIN-SUFFIX,aaa.ax
