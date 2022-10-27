@@ -1,0 +1,52 @@
+#!name=广告过滤
+#!desc=广告过滤
+[Rule]
+# > 京东，去启动广告
+URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
+
+# > 哔哩哔哩
+URL-REGEX,^https?:\/\/.+\.(bilibili|biliapi)\.(com|net)\/x\/v2\/splash\/list, REJECT
+DOMAIN-SUFFIX, grpc.biliapi.net, REJECT-NO-DROP
+// URL-REGEX,https://app.bilibili.com/x/v2/(splash|search/(defaultword|square)),REJECT
+URL-REGEX,^https?+:\/\/.+\.(bilibili|biliapi)\.(com|net)\/x\/v2\/dm\/ad,REJECT
+URL-REGEX,^https?+:\/\/.+\.(bilibili|biliapi)\.(com|net)\/x\/v\d\/splash\/,REJECT
+URL-REGEX,^https?+:\/\/.+\.(bilibili|biliapi)\.(com|net)\/twirp\/comic\.v\d\.Comic\/Flash,REJECT
+
+# > 微信
+URL-REGEX,^https?:\/\/resstatic\.servicewechat\.com\/weapp\/release_,REJECT
+URL-REGEX,^https?:\/\/wxsnsdythumb\.wxs\.qq\.com\/.+\/snscosdownload\/SZ\/reserved,REJECT
+URL-REGEX,^https?:\/\/dlied(.*).cdntips.net,REJECT
+URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad),REJECT
+
+# > 高德地图
+DOMAIN,optimus-ads.amap.com,REJECT
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
+URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/,REJECT
+
+# > 淘宝
+URL-REGEX,^https?+:\/\/(?>heic|gw)\.alicdn\.com\/tfs\/TB1.+?-\d{4}-\d{4}\.jpg_1200x1200q90\.jpg_\.\w{3,4}+$,REJECT
+URL-REGEX,^https?+:\/\/heic\.alicdn\.com\/tps\/i4\/.+?\.jpg_1200x1200q90\.jpg_\.heic$,REJECT
+URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$,REJECT
+URL-REGEX,^https?+:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless,REJECT
+
+# > 天猫
+URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4},REJECT
+
+[URL Rewrite]
+
+# > 高德地图广告
+^http:\/\/ems\.youku\.com\/imp\? - reject
+^http:\/\/optimus-ads\.amap\.com\/uploadimg\/.+ - reject
+
+# > 搬运淘宝(by gitee-木剑)->gw.alicdn.com,heic.alicdn.com
+^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4}) - reject
+^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/.+\d{4}-\d{4}\.jpg_(9\d{2}|\d{4}) - reject
+
+# > 携程广告->ma-adx.ctrip.com,m.ctrip.com
+^https:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
+^https:\/\/m\.ctrip\.com\/restapi\/.+\/json\/tripAds - reject
+^https:\/\/m\.ctrip\.com\/html5\/webresource\/js\/iscroll\.js$,REJECT
+^https:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
+
+[MITM]
+hostname = %APPEND% ems.youku.com, *.amap.com, *.alicdn.com, *.ctrip.com, mbd.baidu.com, 
