@@ -132,5 +132,34 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4},REJECT
 ^https?:\/\/static\.shihuocdn\.cn\/admin\/imgs/202[0-9]{5}\/[a-z0-9]{32}_513x777\.png - reject
 ^https?:\/\/static\.shihuocdn\.cn\/admin\/imgs/202[0-9]{5}\/[a-z0-9]{32}_750x1624\.png - reject
 
+# > 京东
+^https?:\/\/m15\.360buyimg\.com\/mobilecms\/jfs\/t1\/202220\/24\/21575\/134711\/625b821bE5d642d73\/77636692989bd2be\.jpg - reject
+^https?:\/\/m\.360buyimg\.com\/mobilecms\/s1125x2436_jfs\/t1\/96405\/17\/28473\/168578\/625cd144E7997a990\/8233ce8a10c4e463\.jpg - reject
+^https?:\/\/m\.360buyimg\.com\/mobilecms\/s1125x2436_jfs\/t1\/182114\/23\/23904\/121433\/62593c9cEd77c4519\/2e3f4c518b771094\.jpg - reject
+^https?:\/\/m\.360buyimg\.com\/mobilecms\/s1125x2436_jfs - reject
+^https?:\/\/m15\.360buyimg\.com\/mobilecms\/jfs\/t1\/197429\/22/22400\/119193\/62562ef0Eff59b4d4 - reject
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$ - reject-array
+^https?://union.click.jd.com/jda? url request-header ^(.+?\s).+?(\s[\s\S]+?Host:).+?(\r\n) request-header $1/jda?adblock=$2union.click.jd.com$3
+^https?://union.click.jd.com/sem.php? url request-header ^(.+?\s).+?(\s[\s\S]+?Host:).+?(\r\n) request-header $1/sem.php?adblock=$2union.click.jd.com$3
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/(aladdin\/na\/m\/getLoadingPicture|aladdin\/na\/m\/getLoadingPicture) - reject
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture - reject
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/(new)?na\/m\/adInfo - reject
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo - reject
+^https?:\/\/bdsp-x\.jd\.com\/adx\/ - reject
+^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts) - reject
+^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start url script-response-body https://raw.githubusercontent.com/28413761/QX/main/JS/startup.js
+^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$ - reject
+^https?:\/\/img\d+\.360buyimg\.com\/jddjadvertise\/ - reject
+^https?:\/\/m15\.360buyimg\.com\/mobilecms\/jfs\/t1\/197429\/22\/22400\/119193\/62562ef0Eff59b4d4 - reject
+^https?:\/\/m15\.360buyimg\.com\/mobilecms\/jfs\/t1\/220846\/5\/16214\/41327 - reject
+^https?:\/\/m15\.360buyimg\.com\/mobilecms\/jfs\/t1\/202818 - reject
+^https?:\/\/storage\.360buyimg\.com\/kepler-app - reject-img
+^https?:\/\/m\.360buyimg\.com\/mobilecms\/s640x1136_jfs\/ - reject-img
+
+# > 京东极速版
+^https:\/\/img11.360buyimg.com\/dl\/jfs\/t1\/195304\/29\/12317\/268480\/60e6fd21E02a8fb2a\/ - reject
+https://api.m.jd.com/client.action\?functionId=lite_advertising - reject
+
 [MITM]
-hostname = %APPEND% ems.youku.com, *.amap.com, *.ctrip.com, mbd.baidu.com, mlife.jf365.boc.cn, mbs.boc.cn, mp.weixin.qq.com, cloud.189.cn, api.cloud.189.cn, acs.m.taobao.com, gw.alicdn.com, heic.alicdn.com, img.alicdn.com, flowplus.meituan.net, wmapi.meituan.com, img.meituan.net, *.elemecdn.com, elemecdn.com, cdn.poizon.com, static.shihuocdn.cn
+hostname = %APPEND% ems.youku.com, *.amap.com, *.ctrip.com, mbd.baidu.com, mlife.jf365.boc.cn, mbs.boc.cn, mp.weixin.qq.com, cloud.189.cn, api.cloud.189.cn, acs.m.taobao.com, gw.alicdn.com, heic.alicdn.com, img.alicdn.com, flowplus.meituan.net, wmapi.meituan.com, img.meituan.net, *.elemecdn.com, elemecdn.com, cdn.poizon.com, static.shihuocdn.cn，m.360buyimg.com, m.jd.com, api.m.jd.com, ms.jr.jd.com, 
