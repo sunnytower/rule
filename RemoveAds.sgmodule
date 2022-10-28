@@ -162,4 +162,4 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4},REJECT
 https://api.m.jd.com/client.action\?functionId=lite_advertising - reject
 
 [MITM]
-hostname = %APPEND% ems.youku.com, *.amap.com, *.ctrip.com, mbd.baidu.com, mlife.jf365.boc.cn, mbs.boc.cn, mp.weixin.qq.com, cloud.189.cn, api.cloud.189.cn, acs.m.taobao.com, gw.alicdn.com, heic.alicdn.com, img.alicdn.com, flowplus.meituan.net, wmapi.meituan.com, img.meituan.net, *.elemecdn.com, elemecdn.com, cdn.poizon.com, static.shihuocdn.cn，m.360buyimg.com, m.jd.com, api.m.jd.com, ms.jr.jd.com, 
+hostname = %APPEND% ems.youku.com, *.amap.com, m.ctrip.com,dimg04.c-ctrop.com, mbd.baidu.com, mlife.jf365.boc.cn, mbs.boc.cn, mp.weixin.qq.com, cloud.189.cn, api.cloud.189.cn, acs.m.taobao.com, gw.alicdn.com, heic.alicdn.com, img.alicdn.com, flowplus.meituan.net, wmapi.meituan.com, img.meituan.net, *.elemecdn.com, elemecdn.com, cdn.poizon.com, static.shihuocdn.cn，m.360buyimg.com, m.jd.com, api.m.jd.com, ms.jr.jd.com, 
