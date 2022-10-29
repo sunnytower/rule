@@ -13,5 +13,5 @@ for rawresult in [Global, Global_plus]:
 result_text = '\n'.join(result)
 
 
-with open("./proxy.list", "w") as f:
+with open("./Global.list", "w") as f:
     f.write(result_text)
