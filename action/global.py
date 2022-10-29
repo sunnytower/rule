@@ -5,7 +5,7 @@ Global_plus = requests.get("https://ruleset.skk.moe/List/non_ip/global_plus.conf
 
 result = list()
 result.extend(["DOMAIN-SUFFIX,jable.tv", "DOMAIN-SUFFIX,x18r.com", "DOMAIN-SUFFIX,av01.tv", "DOMAIN-SUFFIX,18comic.vip", "DOMAIN-KEYWORD,jav"])
-for rawresult in [Global, Global_plus, Blocked]:
+for rawresult in [Global, Global_plus]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
