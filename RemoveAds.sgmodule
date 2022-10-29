@@ -4,7 +4,7 @@
 # 来源（2）https://raw.githubusercontent.com/jsj0622/Surge/main/zyzchongxie.sgmodule
 [Rule]
 # > 京东，去启动广告
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
+#URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
 
 # > 哔哩哔哩
 URL-REGEX,^https?:\/\/.+\.(bilibili|biliapi)\.(com|net)\/x\/v2\/splash\/list, REJECT
