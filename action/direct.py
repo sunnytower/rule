@@ -1,6 +1,6 @@
 import requests
 Scholar = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list").text
-Direct = requests.get("https://github.com/Blankwonder/surge-list/raw/master/cn.list").text
+Direct = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
 
 result = list()
 for rawresult in [Scholar,Direct]:
