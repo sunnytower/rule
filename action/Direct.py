@@ -3,7 +3,7 @@ Scholar = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_
 Direct = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
 
 result = list()
-for rawresult in [Scholar,Direct]:
+for rawresult in [Scholar, Direct]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
