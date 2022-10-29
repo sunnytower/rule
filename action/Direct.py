@@ -11,5 +11,11 @@ for rawresult in [Scholar, Direct]:
 result_text = '\n'.join(result)
 
 
+with open("./Domestic.list", "w") as f:
+    f.write(result_text)
+
+AppleCDN = requests.get("https://ruleset.skk.moe/List/domainset/apple_cdn.conf").text
+result.extend([item for item in AppleCDN.split("\n") if not item.startswith('#')])
+result_text = '\n'.join(result)
 with open("./Direct.list", "w") as f:
     f.write(result_text)
