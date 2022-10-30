@@ -4,7 +4,7 @@
 1. Emby.list
 > 自用的emby
 2. Direct.list
-> 包含scholar
+> 包含scholar和常见的国内网站 App
 3. AppleCDN.list
 
 4. Apple.list
