@@ -30,14 +30,18 @@ jobs:
       # Runs a single command using the runners shell
       - name: Build up
         run: for f in action/*.py; do python "$f"; done
-
-      # Runs a set of commands using the runners shell
-      - name: Commit files
+      - name: Run script file
         run: |
-          git config --local user.email "ljxreal1@gmail.com"
-          git config --local user.name "Sunnytower"
-          git add ./*
-          git commit -m "update rules" -a
+         chmod +x ./action/script.sh
+         ./script.sh
+        shell: bash
+      # Runs a set of commands using the runners shell
+#       - name: Commit files
+#         run: |
+#           git config --local user.email "ljxreal1@gmail.com"
+#           git config --local user.name "Sunnytower"
+#           git add ./*
+#           git commit -m "update rules" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
