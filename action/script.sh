@@ -1,4 +1,3 @@
-
 git config --local user.email "ljxreal1@gmail.com"
 git config --local user.name "Sunnytower"
 git status | grep "clean"
