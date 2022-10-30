@@ -33,7 +33,7 @@ jobs:
       - name: Run script file
         run: |
          chmod +x ./action/script.sh
-         ./script.sh
+         ./action/script.sh
         shell: bash
       # Runs a set of commands using the runners shell
 #       - name: Commit files
