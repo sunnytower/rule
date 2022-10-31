@@ -3,9 +3,10 @@ Global = requests.get("https://ruleset.skk.moe/List/non_ip/global.conf").text
 Global_plus = requests.get("https://ruleset.skk.moe/List/non_ip/global_plus.conf").text
 Telegram0 = requests.get("https://ruleset.skk.moe/List/non_ip/telegram.conf").text
 Telegram1 = requests.get("https://ruleset.skk.moe/List/ip/telegram.conf").text
+Blocked = requests.get("https://raw.githubusercontent.com/Blankwonder/surge-list/master/blocked.list").text
 
 result = list()
-for rawresult in [Global, Global_plus, Telegram0, Telegram1]:
+for rawresult in [Global, Global_plus, Telegram0, Telegram1, Blocked]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
