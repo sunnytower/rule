@@ -1,10 +1,10 @@
 import requests
 Scholar = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Scholar/Scholar.list").text
-Domestic = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
+#Domestic = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
 CN = requests.get("https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list").text
 
 result = list()
-for rawresult in [Scholar, Domestic, CN]:
+for rawresult in [Scholar, CN]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
