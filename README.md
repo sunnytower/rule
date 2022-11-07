@@ -10,7 +10,7 @@
 4. Apple.list
 > apple服务走的规则 [参考来源](https://royli.dev/blog/2019/better-proxy-rules-for-apple-services)
 5. Global.list
-> 包含大多数常用的网站和服务
+> 包含大多数常用的网站和服务(youtube spotify telegram)
 6. LAN
 
 7. GEOIP or ChinaIP or ChinaASN
