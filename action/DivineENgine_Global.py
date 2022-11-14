@@ -10,7 +10,8 @@ for rawresult in [Global, Telegram0, Blocked, Spotify, Youtube]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
-result.extend(["DOMAIN-SUFFIX,jable.tv", "DOMAIN-SUFFIX,x18r.com", "DOMAIN-SUFFIX,av01.tv"])
+result.extend(["DOMAIN-SUFFIX,jable.tv", "DOMAIN-SUFFIX,x18r.com", "DOMAIN-SUFFIX,av01.tv", "DOMAIN-SUFFIX,18comic.vip"])
+
 
 result_text = '\n'.join(result)
 
