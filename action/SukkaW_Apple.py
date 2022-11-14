@@ -10,5 +10,5 @@ for rawresult in [Apple]:
 
 result_text = '\n'.join(result)
 
-with open("./Apple.list", "w") as f:
+with open("./Surge/SW/Apple.list", "w") as f:
     f.write(result_text)

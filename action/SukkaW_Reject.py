@@ -8,5 +8,5 @@ for rawresult in [Reject1 , Reject2]:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./Reject.list", "w") as f:
+with open("./Surge/SW/Reject.list", "w") as f:
     f.write("\n".join(result))

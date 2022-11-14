@@ -7,6 +7,6 @@ for rawresult in [RejectDomain]:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./RejectDomain.list", "w") as f:
+with open("./Surge/SW/RejectDomain.list", "w") as f:
     f.write("\n".join(result))
    

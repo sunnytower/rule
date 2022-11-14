@@ -17,5 +17,5 @@ result.extend(["DOMAIN-SUFFIX,jable.tv", "DOMAIN-SUFFIX,x18r.com", "DOMAIN-SUFFI
 result_text = '\n'.join(result)
 
 
-with open("./Global.list", "w") as f:
+with open("./Surge/SW/Global.list", "w") as f:
     f.write(result_text)
