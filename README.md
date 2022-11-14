@@ -1,4 +1,4 @@
-# 自用规则顺序
+# 自用规则
 0. Reject.list and RejectDomain.list（可选）
 > 广告过滤
 1. Emby.list
