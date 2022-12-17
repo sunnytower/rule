@@ -220,6 +220,7 @@ IP-CIDR,202.105.165.202/32,no-resolve
 IP-CIDR,203.107.1.65/32,no-resolve
 IP-CIDR,203.119.206.64/32,no-resolve
 IP-CIDR,203.119.211.219/32,no-resolve
+IP-CIDR,203.195.121.11/32,no-resolve
 IP-CIDR,203.205.239.44/32,no-resolve
 IP-CIDR,203.205.255.16/32,no-resolve
 IP-CIDR,205.209.138.102/32,no-resolve
