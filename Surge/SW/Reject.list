@@ -43,6 +43,10 @@ AND,((DOMAIN-KEYWORD,f-log), (DOMAIN-SUFFIX,grammarly.io))
 DOMAIN,stun.smartgslb.com
 AND,((DOMAIN-SUFFIX,prod.hosts.ooklaserver.net), (DOMAIN-KEYWORD,.ad.))
 
+DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
+DOMAIN-KEYWORD,-logging.nextmedia.com
+DOMAIN-KEYWORD,-spiky.clevertap-prod.com
+
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,advertising.com
