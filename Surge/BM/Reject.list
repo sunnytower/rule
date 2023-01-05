@@ -431,7 +431,6 @@ URL-REGEX,^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
 URL-REGEX,^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/
 URL-REGEX,^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/
 URL-REGEX,^https?:\/\/cntv\.hls\.cdn\.myqcloud\.com\/.+?\?maxbr=850
-URL-REGEX,^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/
 URL-REGEX,^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$
 URL-REGEX,^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do
 URL-REGEX,^https?:\/\/d\.zhangle\.com\/pic\/cft\/interaction\/\d{13}-1242-2248\.jpg
