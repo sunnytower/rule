@@ -16,10 +16,17 @@ DOMAIN-KEYWORD,dubester.
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,webwave.dev
-DOMAIN-SUFFIX,groovinews.com
 
 DOMAIN-SUFFIX,gofenews.com
 DOMAIN-SUFFIX,jemonews.com
+DOMAIN-SUFFIX,guesswhatnews.com
+DOMAIN-SUFFIX,luronews.com
+DOMAIN-SUFFIX,reminews.com
+DOMAIN-SUFFIX,groovinews.com
+DOMAIN-SUFFIX,lootynews.com
+DOMAIN-SUFFIX,rookinews.com
+DOMAIN-SUFFIX,sifenews.com
+DOMAIN-SUFFIX,shockynews.com
 
 
 
@@ -53,7 +60,8 @@ DOMAIN-KEYWORD,-spiky.clevertap-prod.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,advertising.com
-DOMAIN-SUFFIX,net.daraz.com
+DOMAIN-KEYWORD,.net.daraz.
+DOMAIN-KEYWORD,.net.zooplus.
 
 DOMAIN-KEYWORD,wxsnsdy
 
