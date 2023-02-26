@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,lootynews.com
 DOMAIN-SUFFIX,rookinews.com
 DOMAIN-SUFFIX,sifenews.com
 DOMAIN-SUFFIX,shockynews.com
+DOMAIN-SUFFIX,jumronews.com
 
 
 
@@ -62,6 +63,8 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.net.zooplus.
+
+DOMAIN-KEYWORD,smetrics.marketing.
 
 DOMAIN-KEYWORD,wxsnsdy
 
