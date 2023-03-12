@@ -16,6 +16,11 @@ DOMAIN-KEYWORD,dubester.
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,webwave.dev
+DOMAIN-SUFFIX,weeblysite.com
+DOMAIN-SUFFIX,square.site
+DOMAIN-SUFFIX,crabdance.com
+DOMAIN-SUFFIX,cprapid.com
+DOMAIN-SUFFIX,plesk.page
 
 DOMAIN-SUFFIX,gofenews.com
 DOMAIN-SUFFIX,jemonews.com
@@ -29,6 +34,7 @@ DOMAIN-SUFFIX,sifenews.com
 DOMAIN-SUFFIX,shockynews.com
 DOMAIN-SUFFIX,jumronews.com
 DOMAIN-SUFFIX,lookinews.com
+DOMAIN-SUFFIX,actonservice.com
 
 
 
@@ -66,6 +72,9 @@ DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.net.zooplus.
 
 DOMAIN-KEYWORD,smetrics.marketing.
+
+DOMAIN-SUFFIX,notifysrv.com
+DOMAIN-SUFFIX,notify6.com
 
 DOMAIN-KEYWORD,wxsnsdy
 
