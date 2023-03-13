@@ -19,8 +19,10 @@ DOMAIN-SUFFIX,webwave.dev
 DOMAIN-SUFFIX,weeblysite.com
 DOMAIN-SUFFIX,square.site
 DOMAIN-SUFFIX,crabdance.com
+DOMAIN-SUFFIX,strangled.net
 DOMAIN-SUFFIX,cprapid.com
 DOMAIN-SUFFIX,plesk.page
+DOMAIN-SUFFIX,000webhostapp.com
 
 DOMAIN-SUFFIX,gofenews.com
 DOMAIN-SUFFIX,jemonews.com
@@ -35,6 +37,14 @@ DOMAIN-SUFFIX,shockynews.com
 DOMAIN-SUFFIX,jumronews.com
 DOMAIN-SUFFIX,lookinews.com
 DOMAIN-SUFFIX,actonservice.com
+
+DOMAIN-KEYWORD,fb-restriction-case
+DOMAIN-KEYWORD,fb-restriction-appeal
+DOMAIN-KEYWORD,fb-community-standards
+DOMAIN-KEYWORD,fb-business-appeal
+
+DOMAIN-SUFFIX,temp.swtest.ru
+DOMAIN-SUFFIX,tw1.ru
 
 
 
