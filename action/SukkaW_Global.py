@@ -8,7 +8,7 @@ Spotify = requests.get("https://raw.githubusercontent.com/DivineEngine/Profiles/
 Youtube = requests.get("https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list").text
 
 result = list()
-for rawresult in [Global, Global_plus, Telegram0, Telegram1, Blocked, Spotify, Youtube]:
+for rawresult in [Global_plus, Global, Telegram0, Telegram1, Blocked, Spotify, Youtube]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
