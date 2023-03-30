@@ -140,7 +140,7 @@ URL-REGEX,^https?://app.bilibili.com/x/v2/rank.*rid=(168|5)
 URL-REGEX,^https?://api.bilibili.com/pgc/season/rank/cn
 
 
-AND,((USER-AGENT,bili*), (NOT,((DOMAIN-SUFFIX,bilibili.com))), (NOT,((DOMAIN-SUFFIX,hdslb.com))), (NOT,((DOMAIN-SUFFIX,wo.cn))), (NOT,((DOMAIN-SUFFIX,biligame.com))),(NOT,((DOMAIN-SUFFIX,bilivideo.com))), (NOT,((DOMAIN-SUFFIX,biliapi.com))), (NOT,((DOMAIN-SUFFIX,biliapi.net))), (NOT,((DOMAIN-SUFFIX,biliintl.com))))
+AND,((USER-AGENT,bili*), (NOT,((DOMAIN-SUFFIX,bilibili.com))), (NOT,((DOMAIN-SUFFIX,hdslb.com))), (NOT,((DOMAIN-SUFFIX,wo.cn))), (NOT,((DOMAIN-SUFFIX,biligame.com))),(NOT,((DOMAIN-SUFFIX,bilivideo.com))), (NOT,((DOMAIN-SUFFIX,biliapi.com))), (NOT,((DOMAIN-SUFFIX,biliapi.net))), (NOT,((DOMAIN-SUFFIX,biliintl.com))), (NOT,((DOMAIN-SUFFIX,bstarstatic.com))), (NOT,((DOMAIN,pic-bstarstatic.akamaized.net))))
 
 URL-REGEX,^https?://asp.cntv.myalicdn.com/.+\?maxbr=850
 URL-REGEX,^https?://cntv.hls.cdn.myqcloud.com/.+\?maxbr=850
