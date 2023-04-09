@@ -1,7 +1,8 @@
 import requests
 Scholar = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list").text
 Domestic = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
-# Direct = requests.get("https://ruleset.skk.moe/List/non_ip/direct.conf").text
+# contains download.
+Direct = requests.get("https://ruleset.skk.moe/List/non_ip/direct.conf").text
 CN = requests.get("https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list").text
 
 result = list()

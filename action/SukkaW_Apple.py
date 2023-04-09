@@ -12,3 +12,6 @@ result_text = '\n'.join(result)
 
 with open("./Surge/SW/Apple.list", "w") as f:
     f.write(result_text)
+
+with open("./Surge/Apple.list", "w") as f:
+    f.write(result_text)

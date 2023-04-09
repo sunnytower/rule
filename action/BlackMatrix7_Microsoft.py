@@ -9,3 +9,6 @@ result_text = '\n'.join(result)
 
 with open("./Surge/BM/Microsoft.list", "w") as f:
     f.write("\n".join(result))
+
+with open("./Surge/Microsoft.list", "w") as f:
+    f.write("\n".join(result))

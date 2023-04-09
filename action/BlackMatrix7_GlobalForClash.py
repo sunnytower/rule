@@ -9,3 +9,6 @@ result_text = '\n'.join(result)
 
 with open("./Surge/BM/GlobalForClash.list", "w") as f:
     f.write("\n".join(result))
+    
+with open("./Surge/GlobalForClash.list", "w") as f:
+    f.write("\n".join(result))
