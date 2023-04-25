@@ -193,4 +193,4 @@ USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
-PROCESS-NAME,lookupviewservice
+PROCESS-NAME,LookupViewService
