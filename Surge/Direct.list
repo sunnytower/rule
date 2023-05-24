@@ -86,6 +86,8 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
@@ -119,7 +121,6 @@ DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
-DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,iesdouyin.com
@@ -211,7 +212,6 @@ DOMAIN,ping.pinyin.sogou.com
 DOMAIN-SUFFIX,push.sogou.com
 DOMAIN-SUFFIX,zhushou.sogou.com
 DOMAIN-SUFFIX,jstarkan.com
-DOMAIN-SUFFIX,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcloud.com
@@ -224,8 +224,11 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,weixinbridge.com
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
+PROCESS-NAME,WeChat
+PROCESS-NAME,WeCom
 DOMAIN-SUFFIX,52tesla.com
 DOMAIN-SUFFIX,xiaote.net
 USER-AGENT,TeslaMap
@@ -244,6 +247,8 @@ DOMAIN-SUFFIX,meixincdn.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN-KEYWORD,amplifi
 DOMAIN-SUFFIX,12306.cn
@@ -353,9 +358,9 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,zhangzishi.cc
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,2144.cn
 USER-AGENT,MicroMessenger Client
 USER-AGENT,MApi* // Dianping
 DOMAIN-KEYWORD,alipay
