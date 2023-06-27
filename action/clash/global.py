@@ -7,5 +7,5 @@ for rawresult in [Global]:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./Clash/Global_Domain.txt", "w") as f:
+with open("./Clash/Global.txt", "w") as f:
     f.write("\n".join(result))
