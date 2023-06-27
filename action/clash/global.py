@@ -1,6 +1,6 @@
 import requests
 
-Global = requests.get("https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Global/Global_Domain.txt").text
+Global = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.txt").text
 
 result = list()
 for rawresult in [Global]:
