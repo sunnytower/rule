@@ -7,8 +7,5 @@ for rawresult in [GlobalDomain]:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./Surge/BM/GlobalDomain.list", "w") as f:
-    f.write("\n".join(result))
-
 with open("./Surge/GlobalDomain.list", "w") as f:
     f.write("\n".join(result))
