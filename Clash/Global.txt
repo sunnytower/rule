@@ -14702,6 +14702,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .djangosnippets.org
 .djorz.com
 .dl-laby.jp
+.dler.io
 .dlive.tv
 .dlsite.com
 .dlsite.jp
