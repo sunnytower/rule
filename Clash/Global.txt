@@ -7210,6 +7210,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .k9vidz.com
 .kaamuu.com
 .kaggle.com
+.kaggle.net
 .kaggleusercontent.com
 .kairakudoujin.net
 .kakaocorp.com
@@ -17790,6 +17791,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sis001.us
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .six-degrees.io
