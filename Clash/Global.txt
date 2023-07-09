@@ -11724,6 +11724,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .tig-ol-bitties.live
 .tiktok.com
 .tiktokcdn.com
+.tiktokd.net
+.tiktokd.org
 .tiktokv.com
 .timelinestoryteller.com
 .timesmembership.com
