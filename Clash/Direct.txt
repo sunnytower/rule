@@ -515,7 +515,6 @@ DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
 DOMAIN-SUFFIX,springernature.com
-URL-REGEX,(Subject|HELO|SMTP)
 USER-AGENT,MicroMessenger Client
 USER-AGENT,MApi* // Dianping
 DOMAIN-KEYWORD,alipay
