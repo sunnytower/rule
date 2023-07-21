@@ -191,7 +191,10 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,netstatic.net
+DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
@@ -365,6 +368,7 @@ DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,2144.cn
+DOMAIN-SUFFIX,chinaz.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
 PROCESS-NAME,v2ray
