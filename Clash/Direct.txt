@@ -195,6 +195,7 @@ DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,yqkk.link
+DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
