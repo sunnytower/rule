@@ -15513,6 +15513,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .greenreadings.com
 .greenvpn.net
 .greenvpn.org
+.grindr.com
 .grotty-monday.com
 .gs-discuss.com
 .gsearch.media
@@ -15907,6 +15908,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .imb.org
 .imdb.com
 .img.ly
+.imgasd.com
 .imgchili.net
 .imgmega.com
 .imgur.com
@@ -19087,6 +19089,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xiaohexie.com
 .xiaolan.me
 .xiaoma.org
+.xiaomi.eu
 .xiaxiaoqiang.net
 .xiezhua.com
 .xihua.es
