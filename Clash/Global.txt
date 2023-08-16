@@ -3912,6 +3912,7 @@ cloud.oracle.com
 .dumpxxx.net
 .dungeonkeeper.cn
 .dungeonkeeper.com
+.duolingo.com
 .duoweiweek.com
 .durex-shopline.com
 .durex.com
