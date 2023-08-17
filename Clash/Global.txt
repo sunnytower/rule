@@ -6473,6 +6473,7 @@ cloud.oracle.com
 .idol-sagasukun.com
 .ids-apple.com
 .idservice.inc
+.idx.dev
 .ie10.com
 .ie11.com
 .ie8.co
