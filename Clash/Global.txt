@@ -16000,6 +16000,7 @@ cloud.oracle.com
 .israbox.com
 .issuu.com
 .istars.co.nz
+.istarshine.com
 .istef.info
 .istiqlalhewer.com
 .istockphoto.com
@@ -17116,7 +17117,6 @@ cloud.oracle.com
 .overcast.fm
 .overdaily.org
 .overplay.net
-.oversea.istarshine.com
 .ovi.com
 .ovpn.com
 .ow.ly
