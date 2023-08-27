@@ -6665,6 +6665,9 @@ cloud.oracle.com
 .inlethd.com
 .innovations-i.com
 .inporn.com
+.inshot.cc
+.inshot.com
+.inshotapp.com
 .insidear.cn
 .insidefilms.com
 .insidemacintosh.com
