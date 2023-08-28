@@ -16,7 +16,6 @@ azuremarketplace.microsoft.com
 beatselectronicsllc.tt.omtrdc.net
 beck-online.beck.de
 blizzard.nefficient.co.kr
-blz.nosdn.127.net
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
@@ -29,8 +28,6 @@ databank.worldbank.org
 default.exp-tas.com
 deutschewelle.h-cdn.com
 developer.microsoft.com
-di.res.netease.com
-diablo3.nosdn.127.net
 dl.begellhouse.com
 download.visualstudio.microsoft.com
 ea.tt.omtrdc.net
@@ -40,8 +37,6 @@ espndotcom.tt.omtrdc.net
 faronics.kayako.com
 firstsearch.oclc.org
 gog.qtlglb.com
-hearthstone.nosdn.127.net
-heroes.nos.netease.com
 hpstore.corpmerchandise.com
 i.jeded.com
 imperial.insendi.com
@@ -58,7 +53,6 @@ nvidia.tt.omtrdc.net
 ocsp.microsoft.com
 oneocsp.microsoft.com
 ood.opsource.net
-overwatch.nosdn.127.net
 pchomeonline.com.tw
 practivate.adobe
 practivate.adobe.ipp
@@ -66,7 +60,6 @@ practivate.adobe.newoa
 practivate.adobe.ntp
 push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
-sc2.nosdn.127.net
 scholar.google.ae
 scholar.google.at
 scholar.google.be
@@ -146,7 +139,6 @@ vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 widgets.stripst.com
-wow.nosdn.127.net
 wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 api.waqi.info
@@ -2185,8 +2177,6 @@ cloud.oracle.com
 .blender.org
 .blink.org
 .blinkload.zone
-.blizzard.cn
-.blizzardgames.cn
 .blizzardgearstore.com
 .blob.core.windows.net
 .blog.descargasgay.com
@@ -2248,7 +2238,6 @@ cloud.oracle.com
 .bluffyporn.com
 .blurams.com
 .blz-contentstack.com
-.blzstatic.cn
 .bmia.org
 .bml.info
 .bmw-abudhabi.com
@@ -2409,7 +2398,6 @@ cloud.oracle.com
 .bmwzentrum.com
 .bnbstatic.com
 .bnef.com
-.bnet.163.com
 .boboporn.com
 .boboporn.net
 .bobovip.cc

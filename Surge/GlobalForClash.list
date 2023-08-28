@@ -16,7 +16,6 @@ DOMAIN,azuremarketplace.microsoft.com
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN,beck-online.beck.de
 DOMAIN,blizzard.nefficient.co.kr
-DOMAIN,blz.nosdn.127.net
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
@@ -29,8 +28,6 @@ DOMAIN,databank.worldbank.org
 DOMAIN,default.exp-tas.com
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,developer.microsoft.com
-DOMAIN,di.res.netease.com
-DOMAIN,diablo3.nosdn.127.net
 DOMAIN,dl.begellhouse.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,ea.tt.omtrdc.net
@@ -40,8 +37,6 @@ DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
 DOMAIN,gog.qtlglb.com
-DOMAIN,hearthstone.nosdn.127.net
-DOMAIN,heroes.nos.netease.com
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
@@ -58,7 +53,6 @@ DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ocsp.microsoft.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,ood.opsource.net
-DOMAIN,overwatch.nosdn.127.net
 DOMAIN,pchomeonline.com.tw
 DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
@@ -66,7 +60,6 @@ DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,qualcomm.sc.omtrdc.net
-DOMAIN,sc2.nosdn.127.net
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
 DOMAIN,scholar.google.be
@@ -146,7 +139,6 @@ DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,widgets.stripst.com
-DOMAIN,wow.nosdn.127.net
 DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,api.waqi.info
@@ -2185,8 +2177,6 @@ DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,blender.org
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blinkload.zone
-DOMAIN-SUFFIX,blizzard.cn
-DOMAIN-SUFFIX,blizzardgames.cn
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,blog.descargasgay.com
@@ -2248,7 +2238,6 @@ DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,bluffyporn.com
 DOMAIN-SUFFIX,blurams.com
 DOMAIN-SUFFIX,blz-contentstack.com
-DOMAIN-SUFFIX,blzstatic.cn
 DOMAIN-SUFFIX,bmia.org
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,bmw-abudhabi.com
@@ -2409,7 +2398,6 @@ DOMAIN-SUFFIX,bmwworld.net
 DOMAIN-SUFFIX,bmwzentrum.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnef.com
-DOMAIN-SUFFIX,bnet.163.com
 DOMAIN-SUFFIX,boboporn.com
 DOMAIN-SUFFIX,boboporn.net
 DOMAIN-SUFFIX,bobovip.cc
