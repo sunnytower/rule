@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,akadns.net
 USER-AGENT,%E4%BC%98%E9%85%B7*
+DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN,gs-loc-cn.apple.com
@@ -345,6 +346,7 @@ DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcloud.com
@@ -389,6 +391,8 @@ DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
