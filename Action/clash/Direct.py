@@ -1,11 +1,11 @@
 import requests
 Scholar = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list").text
-Domestic = requests.get("https://ruleset.skk.moe/List/non_ip/domestic.conf").text
-Direct = requests.get("https://ruleset.skk.moe/List/non_ip/direct.conf").text
-CN = requests.get("https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list").text
+Domestic = requests.get("https://ruleset.skk.moe/Clash/non_ip/domestic.txt").text
+Direct = requests.get("https://ruleset.skk.moe/Clash/non_ip/direct.txt").text
+DirectIP = requests.get("https://ruleset.skk.moe/Clash/ip/domestic.txt").text
 
 result = list()
-for rawresult in [Scholar, Domestic, Direct, CN]:
+for rawresult in [Scholar, Domestic, Direct, DirectIP]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
