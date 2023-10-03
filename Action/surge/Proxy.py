@@ -2,7 +2,7 @@ import requests
 cdn = requests.get("https://ruleset.skk.moe/List/non_ip/cdn.conf").text
 stream = requests.get("https://ruleset.skk.moe/List/non_ip/stream.conf").text
 streamIP = requests.get("https://ruleset.skk.moe/List/ip/stream.conf").text
-telegram = requests.get("https://ruleset.skk.moe/List/non_ip/telegram.conf")
+telegram = requests.get("https://ruleset.skk.moe/List/non_ip/telegram.conf").text
 telegramIP = requests.get("https://ruleset.skk.moe/List/ip/telegram.conf").text
 
 result = list()
