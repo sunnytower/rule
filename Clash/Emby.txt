@@ -1,6 +1,4 @@
-#general
-DOMAIN-KEYWORD,emby
 #charontv
 DOMAIN-SUFFIX,charontv.com
-#misty
-DOMAIN-SUFFIX,misty.ltd
+# tag
+DOMAIN-SUFFIX,embylianmeng.com

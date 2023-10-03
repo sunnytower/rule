@@ -1,6 +1,6 @@
 import requests
 
-ChinaIP = requests.get("https://ruleset.skk.moe/Clash/ip/china_ip.conf").text
+ChinaIP = requests.get("https://ruleset.skk.moe/Clash/ip/china_ip.txt").text
 
 result = list()
 for rawresult in [ChinaIP]:
