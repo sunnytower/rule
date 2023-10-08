@@ -52,6 +52,8 @@ typescript.azureedge.net
 .rollupjs.org
 .pnpm.io
 telemetry.nextjs.org
+npmgraph.js.org
+bundlephobia.com
 api.bintray.com
 badge.buildkite.com
 badge.fury.io
@@ -263,7 +265,7 @@ sandpack-cdn-staging.blazingly.io
 cdn.jwplayer.com
 content.jwplatform.com
 .jwpcdn.com
-assets-jpcust.jwpsrv.com
+.jwpsrv.com
 .ninjastream.to
 .pztv.ca
 .pzvcdn.com
@@ -638,6 +640,10 @@ ipfs.d.tube
 .ipfs.tayfundogdas.me
 .ipfs.soul-network.com
 badbits.dwebops.pub
+.via0.com
+.alexdav.id
+.gw3.io
+.hardbin.com
 proxy.joinmastodon.org
 media.cmx.edu.kg
 s3.acg.mn
@@ -685,6 +691,7 @@ avatars.plurk.com
 emos.plurk.com
 images.plurk.com
 s.plurk.com
+.dsc.cloud
 f000.backblazeb2.com
 f001.backblazeb2.com
 f002.backblazeb2.com
@@ -989,6 +996,8 @@ w2.influxdata.com
 .ltwebstatic.com
 static.snapchat.com
 .cdnst.net
+logos.speedtestcustom.com
+c.speedtestcustom.com
 assets.codepen.io
 static.codepen.io
 cpwebassets.codepen.io
@@ -1512,3 +1521,7 @@ signalcloud.cdnbye.com
 tracker.cdnbye.com
 images.store.crowdstrike.com
 .ss-cdn.com
+downloads.coindesk.com
+static.news.bitcoin.com
+cdn.softswiss.net
+.cdn.s7s.ai
