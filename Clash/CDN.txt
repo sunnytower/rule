@@ -758,6 +758,7 @@ yep.video.yahoo.com
 cookie-cdn.cookiepro.com
 static.dash.cloudflare.com
 info.cloudflare.com
+cf-assets.www.cloudflare.com
 assets.tumblr.com
 static.tumblr.com
 +.media.tumblr.com
