@@ -323,6 +323,8 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,1688.com
@@ -364,6 +366,7 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,acgvideo.com

@@ -182,6 +182,7 @@ DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
@@ -364,11 +365,13 @@ DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amd.com
