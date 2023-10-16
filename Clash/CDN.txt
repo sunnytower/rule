@@ -1083,6 +1083,7 @@ doppler-config.cbsivideo.com
 production-cmp.isgprivacy.cbsi.com
 utteranc.es
 cdn.setapp.com
+imgix.setapp.com
 cdn.micro.blog
 avatars.micro.blog
 +.wikia.nocookie.net
