@@ -1211,6 +1211,7 @@ assets0.headwayapp.co
 cdn.headwayapp.co
 headway-widget.net
 cdn2.downdetector.com
++.dmcdn.net
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
@@ -1589,4 +1590,6 @@ screenshots.downloadtorrentfile.com
 cdn.auth0.com
 cdn.freshdesk.com
 static.typingclub.com
+assets.byteplus.com
 static.meiguo.com
+assets.safing.io
