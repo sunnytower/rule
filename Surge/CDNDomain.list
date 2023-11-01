@@ -126,6 +126,7 @@ packages-cf.termux.dev
 formulae.brew.sh
 crates.io
 static.crates.io
+.getcomposer.org
 packages.httpie.io
 assets-production.packagecloud.io
 repos.danosproject.org
@@ -1227,6 +1228,9 @@ cdn.headwayapp.co
 headway-widget.net
 cdn2.downdetector.com
 .dmcdn.net
+images.now-tv.com
+.nowestatic.com
+.pplusstatic.com
 .ziffstatic.com
 .muscache.com
 cdn.dnsimple.com
@@ -1613,3 +1617,5 @@ m-cdn.phonearena.com
 s-cdn.phonearena.com
 assets.sendinblue.com
 designsystem.brevo.com
+cdn.faveohelpdesk.com
+.cwwcdn.com
