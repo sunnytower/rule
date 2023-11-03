@@ -250,6 +250,8 @@ th.bing.com
 images.ecomm.microsoft.com
 .yammerusercontent.com
 .assets-yammer.com
+.edgestorewebcdn.azureedge.net
+img-s-msn-com.akamaized.net
 wcpstatic.microsoft.com
 statics-xbc-eas.xbox.com
 assets.xbox.com
@@ -541,6 +543,7 @@ widgets.zohosalesiq.com
 client.px-cloud.net
 .jscloud.net
 widgets.tree-nation.com
+info.knak.com
 img.announcekit.app
 cdn.announcekit.app
 cdn01.jotfor.ms
@@ -592,12 +595,14 @@ updates2.signal.org
 cdn.segment.com
 .cmail20.com
 css.createsend1.com
-userimg.customeriomail.com
 img.ltyears.com
 cdn.mcauto-images-production.sendgrid.net
 .mlcdn.com
 newsletter.postmarkapp.com
 image.email.microsoftemail.com
+userimg.customeriomail.com
+userimg-assets.customeriomail.com
+userimg-bee.customeriomail.com
 .gateway.ipfs.io
 .ipfs.eternum.io
 ipfs.d.tube
@@ -1231,6 +1236,7 @@ cdn2.downdetector.com
 images.now-tv.com
 .nowestatic.com
 .pplusstatic.com
+i.mt.lv
 .ziffstatic.com
 .muscache.com
 cdn.dnsimple.com
@@ -1290,6 +1296,7 @@ static.cracked.to
 website-cdn.ipinfo.io
 .assets.digitalocean.com
 ui-cdn.digitalocean.com
+anchor.digitalocean.com
 ws-assets.zoominfo.com
 res2.weblium.site
 code.benco.io
