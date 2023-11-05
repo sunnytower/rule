@@ -7,7 +7,7 @@ DirectIP = requests.get("https://ruleset.skk.moe/List/ip/domestic.conf").text
 CN = requests.get("https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list").text
 
 result = list()
-for rawresult in [Scholar, CN]:
+for rawresult in [Scholar, Direct, DirectIP, CN]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
