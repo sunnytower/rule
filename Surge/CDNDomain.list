@@ -898,6 +898,7 @@ assets.vidyard.com
 play.vidyard.com
 cdn.vidyard.com
 assets.leetcode.com
+static-lccn.leetcode.com
 userfiles.uptimerobot.com
 denali-static.grammarly.com
 static-web.grammarly.com
@@ -1626,3 +1627,7 @@ assets.sendinblue.com
 designsystem.brevo.com
 cdn.faveohelpdesk.com
 .cwwcdn.com
+.media.ci-en.jp
+resizing.flixster.com
+images.fandango.com
+cdn.kinsta.com
