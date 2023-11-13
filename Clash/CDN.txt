@@ -55,6 +55,7 @@ typescript.azureedge.net
 telemetry.nextjs.org
 npmgraph.js.org
 bundlephobia.com
+pkg-size.dev
 api.bintray.com
 badge.buildkite.com
 badge.fury.io
