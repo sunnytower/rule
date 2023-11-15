@@ -3,7 +3,7 @@ Scholar = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master
 Domestic = requests.get("https://ruleset.skk.moe/Clash/non_ip/domestic.txt").text
 Direct = requests.get("https://ruleset.skk.moe/Clash/non_ip/direct.txt").text
 DirectIP = requests.get("https://ruleset.skk.moe/Clash/ip/domestic.txt").text
-Game = requests.get(https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list"").text
+Game = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list").text
 
 result = list()
 for rawresult in [Scholar, Domestic, Direct, DirectIP, Game]:
