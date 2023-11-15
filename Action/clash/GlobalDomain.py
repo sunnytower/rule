@@ -1,6 +1,6 @@
 import requests
 
-GlobalDomain = requests.get("# Global = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Domain.yaml").text").text
+GlobalDomain = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Domain.yaml").text
 
 result = list()
 for rawresult in [GlobalDomain]:
