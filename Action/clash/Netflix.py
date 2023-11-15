@@ -4,7 +4,9 @@ Netflix = requests.get("https://raw.txn3.dev/Onlookers-Group/Texonin-LAB-Public/
 
 result = list()
 for rawresult in [Netflix]:
-    result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
+    for item in rawresult.split("\n"):
+        if (item not in result) and (not item.startswith('#')) :
+            result.append(item)
 result_text = '\n'.join(result)
 
 with open("./Clash/Netflix.txt", "w") as f:

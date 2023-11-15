@@ -4,7 +4,9 @@ Microsoft = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 
 result = list()
 for rawresult in [Microsoft]:
-    result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
+    for item in rawresult.split("\n"):
+        if (item not in result) and (not item.startswith('#')) :
+            result.append(item)
 result_text = '\n'.join(result)
 
 with open("./Surge/Microsoft.list", "w") as f:

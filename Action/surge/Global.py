@@ -5,7 +5,9 @@ Global = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_s
 
 result = list()
 for rawresult in [Global]:
-    result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
+    for item in rawresult.split("\n"):
+        if (item not in result) and (not item.startswith('#')) :
+            result.append(item)
 result_text = '\n'.join(result)
 
 with open("./Surge/Global.list", "w") as f:

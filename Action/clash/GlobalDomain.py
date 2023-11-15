@@ -4,7 +4,9 @@ GlobalDomain = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_
 
 result = list()
 for rawresult in [GlobalDomain]:
-    result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
+    for item in rawresult.split("\n"):
+        if (item not in result) and (not item.startswith('#')) :
+            result.append(item)
 result_text = '\n'.join(result)
 
 with open("./Clash/GlobalDomain.txt", "w") as f:
