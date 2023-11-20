@@ -1,18 +1,19 @@
 import requests
-Scholar = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list").text
-Direct = requests.get("https://ruleset.skk.moe/Clash/non_ip/direct.txt").text
-DirectIP = requests.get("https://ruleset.skk.moe/Clash/ip/domestic.txt").text
-GameDownload = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list").text
-GameDownloadCN = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list").text
-
-result = list()
-for rawresult in [Scholar, Direct, DirectIP, GameDownload, GameDownloadCN]:
-    for item in rawresult.split("\n"):
-        if (item not in result) and (not item.startswith('#')) :
+urls = [
+"https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list",
+"https://ruleset.skk.moe/List/non_ip/direct.conf",
+"https://ruleset.skk.moe/List/ip/domestic.conf",
+"https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list",
+]
+result = []
+for url in urls:
+    resource_text = requests.get(url).text
+    for item in resource_text.split("\n"):
+        if (item not in result) and (not item.startswith('#') and (not item.startswith("USER-AGENT"))):
             result.append(item)
-
-result_text = '\n'.join(result)
 
 
 with open("./Clash/Direct.txt", "w") as f:
-    f.write(result_text)
+    f.write("\n".join(result))

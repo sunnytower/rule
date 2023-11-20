@@ -1,14 +1,14 @@
 import requests
-
-ChinaASN = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list").text
-
-result = list()
-for rawresult in [ChinaASN]:
-    for item in rawresult.split("\n"):
-        if (item not in result) and (not item.startswith('#')) :
+urls = [
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list",
+]
+result = []
+for url in urls:
+    resource_text = requests.get(url).text
+    for item in resource_text.split("\n"):
+        if (item not in result) and (not item.startswith('#')):
             result.append(item)
 
-result_text = '\n'.join(result)
 
 with open("./Surge/ChinaASN.list", "w") as f:
-    f.write(result_text)
+    f.write("\n".join(result))
