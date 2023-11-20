@@ -1,6 +1,6 @@
 import requests
 urls = [
-https://ruleset.skk.moe/Clash/ip/china_ip.txt,
+"https://ruleset.skk.moe/Clash/ip/china_ip.txt",
 ]
 result = []
 for url in urls:
