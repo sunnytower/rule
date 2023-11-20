@@ -1,6 +1,5 @@
 import requests
 Scholar = requests.get("https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list").text
-Domestic = requests.get("https://ruleset.skk.moe/Clash/non_ip/domestic.txt").text
 Direct = requests.get("https://ruleset.skk.moe/Clash/non_ip/direct.txt").text
 DirectIP = requests.get("https://ruleset.skk.moe/Clash/ip/domestic.txt").text
 GameDownload = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list").text
