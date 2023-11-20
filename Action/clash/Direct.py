@@ -6,7 +6,7 @@ GameDownload = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_
 GameDownloadCN = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list").text
 
 result = list()
-for rawresult in [Scholar, Domestic, Direct, DirectIP, GameDownload, GameDownloadCN]:
+for rawresult in [Scholar, Direct, DirectIP, GameDownload, GameDownloadCN]:
     for item in rawresult.split("\n"):
         if (item not in result) and (not item.startswith('#')) :
             result.append(item)
