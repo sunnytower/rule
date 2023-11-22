@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list",
 ]
 result = []
 for url in urls:
@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Clash/Microsoft.txt", "w") as f:
+with open("./surge/GlobalDomain.list", "w") as f:
     f.write("\n".join(result))

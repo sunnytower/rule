@@ -13,5 +13,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Surge/Direct.list", "w") as f:
+with open("./surge/Direct.list", "w") as f:
     f.write("\n".join(result))

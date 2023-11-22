@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Clash/Netflix.txt", "w") as f:
+with open("./clash/Netflix.txt", "w") as f:
     f.write("\n".join(result))

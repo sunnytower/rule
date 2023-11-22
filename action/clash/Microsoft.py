@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://ruleset.skk.moe/List/non_ip/apple_services.conf",
+"https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list",
 ]
 result = []
 for url in urls:
@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Surge/Apple.list", "w") as f:
+with open("./clash/Microsoft.txt", "w") as f:
     f.write("\n".join(result))

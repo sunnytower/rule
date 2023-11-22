@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Surge/ChinaASN.list", "w") as f:
+with open("./surge/ChinaASN.list", "w") as f:
     f.write("\n".join(result))

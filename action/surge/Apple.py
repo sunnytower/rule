@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global.list",
+"https://ruleset.skk.moe/List/non_ip/apple_services.conf",
 ]
 result = []
 for url in urls:
@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Surge/Global.list", "w") as f:
+with open("./surge/Apple.list", "w") as f:
     f.write("\n".join(result))

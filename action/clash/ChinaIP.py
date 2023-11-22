@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Clash/ChinaIP.txt", "w") as f:
+with open("./clash/ChinaIP.txt", "w") as f:
     f.write("\n".join(result))

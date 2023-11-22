@@ -4,8 +4,9 @@ urls = [
 "https://ruleset.skk.moe/List/non_ip/direct.conf",
 "https://ruleset.skk.moe/List/ip/domestic.conf",
 "https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list",
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list",
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list",
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list",
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list",
 ]
 result = []
 for url in urls:
@@ -15,5 +16,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./Clash/Direct.txt", "w") as f:
+with open("./clash/Direct.txt", "w") as f:
     f.write("\n".join(result))
