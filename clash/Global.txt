@@ -3227,6 +3227,7 @@ DOMAIN-SUFFIX,coomer.party
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copro.pw
 DOMAIN-SUFFIX,coqnu.com
 DOMAIN-SUFFIX,corbinfisher.com
@@ -8597,7 +8598,6 @@ DOMAIN-SUFFIX,mypornstarbook.net
 DOMAIN-SUFFIX,mypornvid.fun
 DOMAIN-SUFFIX,mypornwap.fun
 DOMAIN-SUFFIX,myq2.com
-DOMAIN-SUFFIX,myqnapcloud.cn
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myrewardzone.com
 DOMAIN-SUFFIX,myrimmingporn.com
