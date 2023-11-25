@@ -10,5 +10,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./clash/OpenAI.list", "w") as f:
+with open("./clash/OpenAI.txt", "w") as f:
     f.write("\n".join(result))
