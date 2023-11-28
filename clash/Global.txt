@@ -492,6 +492,7 @@ DOMAIN-SUFFIX,aalah.me
 DOMAIN-SUFFIX,aanaan.com
 DOMAIN-SUFFIX,aavs.xyz
 DOMAIN-SUFFIX,abbywintersfree.com
+DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abcheadphones.com
 DOMAIN-SUFFIX,abclider.com
 DOMAIN-SUFFIX,abeatsbydrdre.com
@@ -4189,6 +4190,7 @@ DOMAIN-SUFFIX,ed21.cc
 DOMAIN-SUFFIX,edditstatic.com
 DOMAIN-SUFFIX,edengay.net
 DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
+DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgefonts.net
 DOMAIN-SUFFIX,edgemeplease.com
 DOMAIN-SUFFIX,edisebay.com
