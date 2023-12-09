@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list",
 ]
 result = []
 for url in urls:
