@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://ruleset.skk.moe/List/domainset/apple_cdn.conf",
+"https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt",
 ]
 result = []
 for url in urls:
