@@ -122,9 +122,9 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,alpharatio.cc
-DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,asiancinema.me
 DOMAIN-SUFFIX,avgv.cc
@@ -229,6 +229,7 @@ DOMAIN-KEYWORD,els-cdn
 DOMAIN-SUFFIX,springernature.com
 
 IP-CIDR,162.14.0.0/18,no-resolve
+IP-CIDR,140.205.1.0/24,no-resolve
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
