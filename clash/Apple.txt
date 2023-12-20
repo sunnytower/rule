@@ -15,4 +15,12 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,aaplimg.com
+PROCESS-NAME,WeatherWidget
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,fmfd
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
 PROCESS-NAME,com.apple.geod
+PROCESS-NAME,netbiosd
+PROCESS-NAME,trustd
