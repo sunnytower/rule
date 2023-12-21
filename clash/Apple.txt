@@ -1,3 +1,5 @@
+DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,itunes.com
