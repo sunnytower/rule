@@ -182,6 +182,7 @@ DOMAIN-SUFFIX,adpl.org.hk
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult-sex-games.com
+DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,adultkeep.net
 DOMAIN-SUFFIX,advanscene.com
 DOMAIN-SUFFIX,advertfan.com
@@ -1802,7 +1803,6 @@ DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,frienddy.com
 DOMAIN-SUFFIX,friendfeed-media.com
 DOMAIN-SUFFIX,friendfeed.com
-DOMAIN-SUFFIX,friendfinder.com
 DOMAIN-SUFFIX,friends-of-tibet.org
 DOMAIN-SUFFIX,friendsoftibet.org
 DOMAIN-SUFFIX,fring.com
