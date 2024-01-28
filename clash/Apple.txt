@@ -21,6 +21,7 @@ PROCESS-NAME,WeatherWidget
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
+PROCESS-NAME,apsd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,com.apple.Maps
 PROCESS-NAME,com.apple.geod

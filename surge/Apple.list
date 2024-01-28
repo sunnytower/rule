@@ -20,9 +20,10 @@ PROCESS-NAME,netbiosd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,mapspushd
 PROCESS-NAME,com.apple.Maps
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN,api.smoot.apple.cn
+PROCESS-NAME,apsd
 PROCESS-NAME,fmfd
 PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN,api.smoot.apple.cn
