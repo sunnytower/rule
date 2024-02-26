@@ -1,3 +1,4 @@
+DOMAIN,tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,organicfruitapps.com
