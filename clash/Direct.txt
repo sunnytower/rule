@@ -80,7 +80,7 @@ DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,zotero.org
-DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
+DOMAIN,uynd519jord.this_ruleset_is_made_by_sukkaw.h6pm7k19v7.ruleset.skk.moe
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
 PROCESS-NAME,v2ray
