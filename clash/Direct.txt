@@ -83,43 +83,7 @@ DOMAIN-SUFFIX,zotero.org
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
-PROCESS-NAME,v2ray
-PROCESS-NAME,xray
-PROCESS-NAME,ss-local
-PROCESS-NAME,clash
-PROCESS-NAME,ClashX
-PROCESS-NAME,trojan
-PROCESS-NAME,trojan-go
-PROCESS-NAME,privoxy
-PROCESS-NAME,cloudflared
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,ThunderVIP
-PROCESS-NAME,Transmission
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-qt
-PROCESS-NAME,BitComet
-PROCESS-NAME,uTorrent
-PROCESS-NAME,qbittorrent*
-PROCESS-NAME,DownloadService
-PROCESS-NAME,qBittorrent
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-PROCESS-NAME,amuled
-PROCESS-NAME,Motrix.app
-PROCESS-NAME,UUBooster
 DOMAIN-SUFFIX,xunlei.com
-PROCESS-NAME,tailscaled
-PROCESS-NAME,parsecd
-PROCESS-NAME,SunloginClient_Desktop
-PROCESS-NAME,SunloginClient_Helper
-PROCESS-NAME,BaiduNetdisk_mac
-PROCESS-NAME,Logi Options
-PROCESS-NAME,Logi Options Daemon
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,animebytes.tv
@@ -217,6 +181,7 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,springernature.com
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,pkulaw
@@ -226,7 +191,42 @@ DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
-DOMAIN-SUFFIX,springernature.com
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+PROCESS-NAME,ss-local
+PROCESS-NAME,clash
+PROCESS-NAME,ClashX
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,privoxy
+PROCESS-NAME,cloudflared
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,BitComet
+PROCESS-NAME,uTorrent
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,amuled
+PROCESS-NAME,Motrix.app
+PROCESS-NAME,UUBooster
+PROCESS-NAME,tailscaled
+PROCESS-NAME,parsecd
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,Logi Options
+PROCESS-NAME,Logi Options Daemon
 
 IP-CIDR,162.14.0.0/18,no-resolve
 IP-CIDR,140.205.1.0/24,no-resolve

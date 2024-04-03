@@ -1,4 +1,5 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.co
@@ -16,13 +17,12 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 PROCESS-NAME,trustd
 PROCESS-NAME,netbiosd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,mapspushd
 PROCESS-NAME,com.apple.Maps
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN,api.smoot.apple.cn
 PROCESS-NAME,apsd
 PROCESS-NAME,fmfd
 PROCESS-NAME,findmydevice-user-agent
