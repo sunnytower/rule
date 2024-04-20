@@ -819,6 +819,7 @@ DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdn.angruo.com
+DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnews.com.tw
 DOMAIN-SUFFIX,cdnst.net
@@ -1516,6 +1517,7 @@ DOMAIN-SUFFIX,etaa.org.au
 DOMAIN-SUFFIX,etadult.com
 DOMAIN-SUFFIX,etaiwannews.com
 DOMAIN-SUFFIX,etherdelta.com
+DOMAIN-SUFFIX,ethermine.org
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etizer.org
 DOMAIN-SUFFIX,etokki.com
@@ -1557,6 +1559,7 @@ DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,ezpc.tk
 DOMAIN-SUFFIX,ezpeer.com
 DOMAIN-SUFFIX,ezua.com
+DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,fabric.io
@@ -2331,6 +2334,7 @@ DOMAIN-SUFFIX,hrcchina.org
 DOMAIN-SUFFIX,hrcir.com
 DOMAIN-SUFFIX,hrea.org
 DOMAIN-SUFFIX,hrichina.org
+DOMAIN-SUFFIX,hrntt.org
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,hrweb.org
@@ -3513,6 +3517,7 @@ DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,noypf.com
 DOMAIN-SUFFIX,npa.go.jp
 DOMAIN-SUFFIX,npa.gov.tw
+DOMAIN-SUFFIX,npm.gov.tw
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,nps.gov
 DOMAIN-SUFFIX,npsboost.com
@@ -3893,6 +3898,7 @@ DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potvpn.com
+DOMAIN-SUFFIX,pourquoi.tw
 DOMAIN-SUFFIX,power.com
 DOMAIN-SUFFIX,powerapple.com
 DOMAIN-SUFFIX,powercx.com
@@ -5823,6 +5829,7 @@ DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
+DOMAIN-SUFFIX,zamimg.com
 DOMAIN-SUFFIX,zannel.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
