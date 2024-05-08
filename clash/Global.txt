@@ -818,7 +818,6 @@ DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdn.angruo.com
-DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnews.com.tw
 DOMAIN-SUFFIX,cdnst.net
@@ -2424,7 +2423,6 @@ DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,icams.com
 DOMAIN-SUFFIX,icedrive.net
-DOMAIN-SUFFIX,icerocket.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
 DOMAIN-SUFFIX,icntv.xyz
@@ -2725,6 +2723,7 @@ DOMAIN-SUFFIX,justtristan.com
 DOMAIN-SUFFIX,juyuange.org
 DOMAIN-SUFFIX,juziyue.com
 DOMAIN-SUFFIX,jwmusic.org
+DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,jyxf.net
 DOMAIN-SUFFIX,k-doujin.net
 DOMAIN-SUFFIX,ka-wai.com
