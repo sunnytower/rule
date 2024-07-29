@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://raw.txn3.dev/Onlookers-Group/Texonin-LAB-Public/main/Surge/rule/Netflix.list",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list",
 ]
 result = []
 for url in urls:
