@@ -286,8 +286,8 @@ PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 
-IP-CIDR,162.14.0.0/18,no-resolve
 IP-CIDR,140.205.1.0/24,no-resolve
+IP-CIDR,162.14.0.0/18,no-resolve
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com

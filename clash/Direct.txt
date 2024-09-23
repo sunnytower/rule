@@ -285,8 +285,8 @@ PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 
-IP-CIDR,162.14.0.0/18,no-resolve
 IP-CIDR,140.205.1.0/24,no-resolve
+IP-CIDR,162.14.0.0/18,no-resolve
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
