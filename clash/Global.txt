@@ -2101,6 +2101,7 @@ DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grotty-monday.com
+DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gstatic.com
@@ -2200,6 +2201,7 @@ DOMAIN-SUFFIX,heqinglian.net
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,heritage.org
 DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,heungkongdiscuss.com
 DOMAIN-SUFFIX,hexieshe.com
 DOMAIN-SUFFIX,hexieshe.xyz
@@ -2342,6 +2344,7 @@ DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hoxx.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hpa.gov.tw
+DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hqcdp.org
 DOMAIN-SUFFIX,hqjapanesesex.com
 DOMAIN-SUFFIX,hqmovies.com
@@ -2429,6 +2432,7 @@ DOMAIN-SUFFIX,iamtopone.com
 DOMAIN-SUFFIX,iask.bz
 DOMAIN-SUFFIX,iask.ca
 DOMAIN-SUFFIX,iav19.com
+DOMAIN-SUFFIX,iavian.net
 DOMAIN-SUFFIX,ibiblio.org
 DOMAIN-SUFFIX,ibit.am
 DOMAIN-SUFFIX,iblist.com
@@ -3778,6 +3782,7 @@ DOMAIN-SUFFIX,pbxes.org
 DOMAIN-SUFFIX,pcanywhere.net
 DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pcdvd.com.tw
+DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pcij.org
 DOMAIN-SUFFIX,pcloud.com
