@@ -83,11 +83,9 @@ DOMAIN-SUFFIX,zotero.org
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,m2m
-DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,bogon
 DOMAIN,unifi
-DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,avgv.cc
