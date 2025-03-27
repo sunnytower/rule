@@ -240,8 +240,6 @@ DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
-DOMAIN-WILDCARD,2?.172.in-addr.arpa
-DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
 PROCESS-NAME,ss-local
