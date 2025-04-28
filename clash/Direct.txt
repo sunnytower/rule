@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ui.direct
 DOMAIN,unifi
 DOMAIN,ntt.setup
+DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,bogon
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,concertos.live
