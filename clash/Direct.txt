@@ -280,15 +280,6 @@ PROCESS-NAME,Logi Options Daemon
 
 IP-CIDR,140.205.1.0/24,no-resolve
 IP-CIDR,162.14.0.0/18,no-resolve
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,.tmall.
-IP-CIDR,198.11.188.0/25,no-resolve
-IP-CIDR,198.11.136.0/24,no-resolve
-DOMAIN-SUFFIX,CN
-DOMAIN-KEYWORD,baidu
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
