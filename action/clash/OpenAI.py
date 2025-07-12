@@ -1,6 +1,7 @@
 import requests
 urls = [
-"https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list",
+# "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list",
+"https://ruleset.skk.moe/Clash/non_ip/ai.txt",
 ]
 result = []
 for url in urls:
