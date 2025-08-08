@@ -761,6 +761,7 @@ DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,meizu.cn
 DOMAIN-SUFFIX,m1905.cn
 DOMAIN-SUFFIX,ksurl.cn
+DOMAIN-SUFFIX,kdocs.cn
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN,www.intel.cn
 DOMAIN-SUFFIX,infoq.cn
@@ -822,11 +823,11 @@ DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$
+DOMAIN-WILDCARD,*.ffzy-online?.com
+DOMAIN-WILDCARD,*.ffzy-play?.com
+DOMAIN-WILDCARD,*.lz-cdn??.com
+DOMAIN-WILDCARD,*.qhimgs?.com
+DOMAIN-WILDCARD,*.lz-cdn?.com
 
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,internal
