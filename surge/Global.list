@@ -48,6 +48,7 @@ DOMAIN-WILDCARD,proxy-*.dailymotion.com
 DOMAIN-WILDCARD,ocsp.*.amazontrust.com
 DOMAIN-WILDCARD,cdn?.18girlssex.com
 DOMAIN-WILDCARD,s3.*.wasabisys.com
+DOMAIN-WILDCARD,cdn-*.microsoft.com
 DOMAIN-WILDCARD,cdn.*.microsoft.com
 DOMAIN-WILDCARD,assets*.freshdesk.com
 DOMAIN-WILDCARD,*.img.*.sendibm?.com
@@ -74,8 +75,7 @@ DOMAIN-WILDCARD,static??.tgstat.ru
 DOMAIN-WILDCARD,static?.tgstat.ru
 DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
 DOMAIN-WILDCARD,sdk.*.braze.eu
-URL-REGEX,^http://www\.microsoft\.com/pki/
-URL-REGEX,^http://www\.microsoft\.com/pkiops/
+DOMAIN-WILDCARD,assets.*.imaga.co
 
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
