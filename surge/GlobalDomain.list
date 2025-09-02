@@ -1243,6 +1243,7 @@ api.producthunt.com
 s3.producthunt.com
 cdn.pricespider.com
 .pplusstatic.com
+public-assets.postmarkapp.com
 newsletter.postmarkapp.com
 rebound.postmarkapp.com
 .porndudecdn.com
@@ -2415,6 +2416,7 @@ static.doujins.com
 cdn.docsbot.com
 global.divhunt.com
 s1.divhunt.com
+cdn.devdojo.com
 .denopkg.com
 .dellcdn.com
 import-cdn.default.com
@@ -3711,6 +3713,7 @@ static1.smartbear.co
 before.good-apps.co
 static.convertio.co
 .ipfs.tribecap.co
+.supabase.co
 .smilecdn.co
 .ipfs.sloppyta.co
 assets.jolipage.co
