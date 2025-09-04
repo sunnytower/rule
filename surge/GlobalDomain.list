@@ -506,6 +506,7 @@ edgeassetservice.azureedge.net
 xpaywalletcdn.azureedge.net
 claritystatic.azureedge.net
 mobilecenter.azureedge.net
+trekcdnprod.azureedge.net
 typescript.azureedge.net
 edgestatic.azureedge.net
 ni-assets.azureedge.net
@@ -718,6 +719,7 @@ todoist.b-cdn.net
 divhunt.b-cdn.net
 dh-site.b-cdn.net
 cdntube.b-cdn.net
+c-bin.b-cdn.net
 amp.azure.net
 s3.arkjp.net
 .img3.acsta.net
@@ -1222,7 +1224,9 @@ assets.squarespace.com
 .splunkcloud.com
 assets.speedvitals.com
 .skypeassets.com
+.shoplineimg.com
 img.shoplineapp.com
+cdn.shoplineapp.com
 cdn.servicebell.com
 files.scamadviser.com
 assets.salesmartly.com
@@ -1457,6 +1461,7 @@ media.nbcnewyork.com
 media.nationwide.com
 tags.nationwide.com
 .myspacecdn.com
+r2cdn.myshopline.com
 .myshopapps.com
 .myfilebase.com
 .msftstatic.com
@@ -1745,6 +1750,7 @@ images.macrumors.com
 scdn.line-apps.com
 cdn.lgrckt-in.com
 .kinja-img.com
+cdn.joypixels.com
 cdn.joinhoney.com
 .jisuimage.com
 cdn.jetphotos.com
@@ -2050,6 +2056,7 @@ filestore.fortinet.com
 resizing.flixster.com
 static-assets-web.flixcart.com
 cdn-share-sprites.flaticon.com
+cdn-icons-png.flaticon.com
 cdn-uicons.flaticon.com
 media.flaticon.com
 cdn.firebase.com
@@ -2776,6 +2783,8 @@ static.ahrefs.com
 .glass.adidas.com
 .9cache.com
 static.zuora.com
+barracuda-assets.zoovu.com
+barracuda-cdn.zoovu.com
 hello.zonos.com
 .ytimg.com
 cdn-yotpo-images-production.yotpo.com
