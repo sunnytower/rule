@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,apple.co
-PROCESS-NAME,trustd
 PROCESS-NAME,netbiosd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,mapspushd
