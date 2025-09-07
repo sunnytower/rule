@@ -135,6 +135,7 @@ cdn.kinopio.club
 storage.crisp.chat
 image.crisp.chat
 assets.toot.cafe
+img.apk.cafe
 avatars.micro.blog
 cdn.micro.blog
 i.111666.best
@@ -570,6 +571,7 @@ eaassets-a.akamaihd.net
 spoprod-a.akamaihd.net
 lumiere-a.akamaihd.net
 img.adspower.net
+cdn.yamibuy.net
 cdn.writeas.net
 unlimited-cdn.waifu2x.net
 social-cdn.vivaldi.net
@@ -1084,6 +1086,7 @@ media.steampowered.com
 cdn.staticdelivr.com
 .ipfs.soul-network.com
 image.shutterstock.com
+sourcemap.webfe.shopeemobile.com
 static.serverhunter.com
 .scribdassets.com
 ak.sail-horizon.com
@@ -2171,6 +2174,7 @@ web-assets.zendesk.com
 img.youtube.com
 cdne-pics.youjizz.com
 .yelpcdn.com
+cdn.yamibuy.com
 .xingcdn.com
 preview.xgroovy.com
 static.xgroovy.com
@@ -3568,6 +3572,7 @@ static.status.io
 image.status.io
 media.smooch.io
 cdn.smooch.io
+files.webfe.shopee.io
 wire.shodan.io
 .ingest.sentry.io
 .ingest.us.sentry.io
