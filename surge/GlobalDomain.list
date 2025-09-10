@@ -69,6 +69,7 @@ cdn.bullwhip.cloud
 resources-live.sketch.cloud
 .gateway.pinata.cloud
 patterns.hiive.cloud
+cdn.craft.cloud
 cdn.tiny.cloud
 fscdn.eppo.cloud
 cdn-static.paw.cloud
@@ -143,6 +144,8 @@ i.111666.best
 i.loli.best
 image.nmb.best
 .porn5.asia
+bucket.noy.asia
+img.noy.asia
 phishing.army
 cdn.joincommunity.xyz
 domain.expiring-soon.xyz
@@ -1022,6 +1025,8 @@ asset.mansionglobal.com
 .livemediahost.com
 pbs-prod.linustechtips.com
 cwsimages.ingramcontent.com
+media-central.indianexpress.com
+images.indianexpress.com
 .highwinds-cdn.com
 cdn.heapanalytics.com
 sig.grumpybumpers.com
@@ -1686,6 +1691,7 @@ s3.sitepoint.com
 icons.simplesvg.com
 api.simplesvg.com
 media.shopimind.com
+.cdn.shift8web.com
 .sfbassets.com
 .sendspace.com
 forest-mt-s3.seekrtech.com
@@ -1746,6 +1752,7 @@ uhf.microsoft.com
 csp.microsoft.com
 js.memberful.com
 static.mediafire.com
+images.mathworks.com
 form-assets.mailchimp.com
 cdn-images.mailchimp.com
 static.macupdate.com
@@ -2116,6 +2123,7 @@ cdn-assets.circleci.com
 assets-app.circleci.com
 app.chatwoot.com
 .chasecdn.com
+js.chargify.com
 .cdnfonts.com
 .cartocdn.com
 assets.capterra.com
@@ -2272,6 +2280,8 @@ pics.pornfhd.com
 celebrities-small.porndig.com
 m.porn3dx.com
 pbcdn1.podbean.com
+png.pngtree.com
+js.pngtree.com
 www.pngmart.com
 cdn-main.plus500.com
 cdn.plus500.com
@@ -2559,6 +2569,7 @@ assets.toiimg.com
 image.thefly.com
 .tedcdn.com
 www.tbstat.com
+gravatar.tapglb.com
 cdn-static.talent.com
 .sxccdn.com
 assets.swoogo.com
@@ -2916,6 +2927,7 @@ cdn.gigya.com
 cdn-1.ggjav.com
 media.gettr.com
 cdn.gettr.com
+account-widget-mfe.gcore.com
 i.gawby.com
 a.gawby.com
 cdn.app.fossa.com
@@ -3503,6 +3515,7 @@ link.storjshare.io
 .statuspage.io
 .statically.io
 .stackblitz.io
+static.smartframe.io
 tracking.inflection.io
 gtranslate.io
 cdn.growthbook.io
