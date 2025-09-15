@@ -583,6 +583,7 @@ DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,scp-wiki.com
 DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,roboflow.com
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,porntube.com
@@ -1219,4 +1220,3 @@ DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,pinterest
 USER-AGENT,Roam*
-DOMAIn-SUFFIX,roboflow.com
