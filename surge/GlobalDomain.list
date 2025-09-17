@@ -281,6 +281,7 @@ cdn.autoketing.org
 creativajs.altervista.org
 upload.wikimedia.org
 cdn.travis-ci.org
+light.spicegems.org
 user-uploads.perchance.org
 s13.maxstream.org
 s11.maxstream.org
@@ -561,6 +562,8 @@ cdn.highporn.net
 connect.facebook.net
 static.esimplus.net
 pub.creaders.net
+cdn-app.cart-bot.net
+app.cart-bot.net
 assets.bitstamp.net
 cdn.beacondb.net
 damassets.autodesk.net
@@ -968,6 +971,7 @@ cdn-forum.networklessons.com
 cdn.networklessons.com
 media.nbcconnecticut.com
 image.email.microsoftemail.com
+.mediadecathlon.com
 assets.media-platform.com
 na-library.klarnaservices.com
 static.killedbygoogle.com
@@ -1068,6 +1072,7 @@ static.cloudcachetci.com
 .cbsnewsstatic.com
 files.buildwithfern.com
 .brightspotcdn.com
+.brightcovecdn.com
 .aweber-static.com
 .cdn.autoevolution.com
 .assets-yammer.com
@@ -1151,6 +1156,7 @@ staticm.fastcomments.com
 cdn.fastcomments.com
 static.fastboostcdn.com
 .fakestoreapi.com
+.esc-apps-cdn.com
 cdn-eu.dynamicyield.com
 st-eu.dynamicyield.com
 cdn.dynamicyield.com
@@ -1517,6 +1523,8 @@ cdn2.iconfinder.com
 cdn1.iconfinder.com
 cdn0.iconfinder.com
 cdn.iconfinder.com
+images.icon-icons.com
+cdn.icon-icons.com
 cdn.hypershort.com
 cors-proxy.htmldriven.com
 .hs-scripts.com
@@ -1622,6 +1630,7 @@ public-pages.cbinsights.com
 rtcg-access.bytevcloud.com
 static.buydomains.com
 cdn.britannica.com
+player.interactivity.brightcove.com
 app.brightback.com
 static.prd.borderfree.com
 .boomio-cdn.com
@@ -2098,6 +2107,7 @@ cdn-icons-png.flaticon.com
 cdn-uicons.flaticon.com
 media.flaticon.com
 cdn.firebase.com
+widget.finlogix.com
 s3.filebase.com
 icons.ferndocs.com
 .favicone.com
@@ -2267,6 +2277,8 @@ static.srcspot.com
 cdn.sphlabs.com
 .snzypic.com
 sdk.snapkit.com
+cache.industry.siemens.com
+data.cdn.siemens.com
 cdn.shopify.com
 dassets.shimano.com
 cdn.sheetjs.com
@@ -2571,7 +2583,9 @@ assets.vercel.com
 image.ship.vercel.com
 go.vercel.com
 .vancdn.com
+stc.utdstc.com
 img.utdstc.com
+backinstock.useamp.com
 .devrum.uptime.com
 api.unisvg.com
 .assets.ubuntu.com
@@ -2676,6 +2690,7 @@ images.now-tv.com
 i.niupic.com
 .nineyu.com
 article-image-ix.nikkei.com
+instafeed.nfcube.com
 cdn.nfcube.com
 c1.newegg.com
 .nc-img.com
@@ -3070,6 +3085,7 @@ cdn.mewe.com
 apim.m3pd.com
 img.lvv2.com
 cdn.loom.com
+app-cdn.logo.com
 static.kobo.com
 cdn.kobo.com
 info.knak.com
@@ -3095,6 +3111,7 @@ i.bang.com
 img.atom.com
 g-static.ap4r.com
 .a1tb.com
+bundle.9gtb.com
 accounts-cdn.9gag.com
 bundle.5gtb.com
 img.4khd.com
@@ -3384,6 +3401,9 @@ files.yande.re
 .pixiv.re
 asset.booth.pm
 .fakeimg.pl
+cdn5.telesco.pe
+cdn4.telesco.pe
+cdn1.telesco.pe
 cdn.geekzone.co.nz
 secure.fanboy.co.nz
 .static.mega.co.nz
@@ -3875,6 +3895,7 @@ cdn.engagement.ai
 assets.cloudpilot.ai
 api.instantly.ai
 sdk.customfit.ai
+static.returngo.ai
 prod-cdn.webtune.ai
 widget.docsbot.ai
 cdn.aimerce.ai
