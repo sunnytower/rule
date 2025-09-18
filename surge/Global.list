@@ -342,6 +342,7 @@ DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,sentry.dev
 DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,aws.dev
