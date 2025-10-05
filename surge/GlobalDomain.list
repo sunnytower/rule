@@ -1884,6 +1884,7 @@ media.breitbart.com
 static.bravoporn.com
 .bnbstatic.com
 images.blockscan.com
+assets.bitwarden.com
 .bitgetimg.com
 upos-sz-mirrorcosbstar1.bilivideo.com
 upos-sz-mirroralibstar1.bilivideo.com
@@ -1987,6 +1988,7 @@ apps-static.route4me.com
 .roseimgs.com
 cdnassets.roboflow.com
 static.roboflow.com
+source.roboflow.com
 cdn.roboflow.com
 app.roboflow.com
 api.roboflow.com
@@ -2893,6 +2895,9 @@ player.vimeo.com
 static.vanta.com
 .uvcdn.com
 .unpkg.com
+idportal-cdn-prd.unity.com
+cdn.login.unity.com
+cdn.cloud.unity.com
 .twimg.com
 media1.tenor.com
 media.tenor.com
@@ -3728,6 +3733,7 @@ cdn.pendo.io
 .nxcli.io
 media.mstdn.io
 .strapi.logto.io
+cdn-blocks.karte.io
 cdn-edge.karte.io
 statics.goorm.io
 sdk.gleap.io
