@@ -1,6 +1,8 @@
 import requests
 urls = [
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list",
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list",
+"https://ruleset.skk.moe/Clash/non_ip/cdn.txt",
+"https://ruleset.skk.moe/Clash/non_ip/global.txt"
 ]
 result = []
 for url in urls:

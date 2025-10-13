@@ -2,10 +2,9 @@ import requests
 urls = [
 "https://ruleset.skk.moe/Clash/non_ip/domestic.txt",
 "https://ruleset.skk.moe/Clash/non_ip/direct.txt",
-# "https://ruleset.skk.moe/List/ip/domestic.conf",
+"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list",
 "https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list",
 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list",
-"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list",
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list",
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list",
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list",
