@@ -12,5 +12,5 @@ for url in urls:
             result.append(item)
 
 
-with open("./surge/Global.list", "w") as f:
+with open("./surge/Global.txt", "w") as f:
     f.write("\n".join(result))
