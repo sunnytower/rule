@@ -373,6 +373,7 @@ DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,xpressunblock.com
 DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,stackoverflow.com
@@ -498,6 +499,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,clips4sale.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,wordpress.com
