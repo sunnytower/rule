@@ -23,6 +23,7 @@ DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,-images.disco-api.com
 DOMAIN-KEYWORD,vdownload.hanime1
 DOMAIN-KEYWORD,fonts.hanime1
+DOMAIN-KEYWORD,static.grammarly.com
 DOMAIN-WILDCARD,cdn.*.office.net
 DOMAIN-WILDCARD,cdn.*.microsoft.com
 DOMAIN-WILDCARD,cdn-*.microsoft.com
@@ -650,6 +651,7 @@ DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,badoocdn.com
+DOMAIN-SUFFIX,awscloud.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,apkcombo.com
