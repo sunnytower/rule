@@ -1207,6 +1207,7 @@ assets.clever-cloud.com
 cdn.clever-cloud.com
 static.chrome-stats.com
 +.cdninstagram.com
++.capcutstatic.com
 cdnjs.buymeacoffee.com
 cdn.buymeacoffee.com
 bundlephobia.com
