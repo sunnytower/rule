@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,sex
 DOMAIN-SUFFIX,rip
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,wikimediafoundation.org
 DOMAIN-SUFFIX,freedownloadmanager.org
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,polymer-project.org
@@ -138,6 +139,7 @@ DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,waybackmachine.org
+DOMAIN-SUFFIX,wikifunctions.org
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,lumendatabase.org
