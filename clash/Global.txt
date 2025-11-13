@@ -77,6 +77,11 @@ DOMAIN-WILDCARD,uploads-*.insided.com
 DOMAIN-WILDCARD,s*.hanime1
 DOMAIN-WILDCARD,img-*.now.com
 DOMAIN-WILDCARD,assets.*.imaga.co
+DOMAIN-WILDCARD,cdn*.pigav.com
+DOMAIN-WILDCARD,fastly-*.allmovie.com
+DOMAIN-WILDCARD,cdn*.porn87.com
+DOMAIN-WILDCARD,cdn*.pornhost.com
+DOMAIN-WILDCARD,cdn*.boysfood.com
 
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
@@ -191,6 +196,7 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,xquartz.org
+DOMAIN-SUFFIX,wmflabs.org
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,mozilla.org
@@ -215,6 +221,7 @@ DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,wiki2.org
 DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,upjav.org
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,rferl.org
 DOMAIN-SUFFIX,pixiv.org
@@ -421,10 +428,13 @@ DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,ovpnleaktest.com
+DOMAIN-SUFFIX,myanimeshelf.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,knowyourmeme.com
+DOMAIN-SUFFIX,hentaistream.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,girlsgogames.com
@@ -606,6 +616,7 @@ DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,porntube.com
 DOMAIN-SUFFIX,porntrex.com
 DOMAIN-SUFFIX,pornpics.com
+DOMAIN-SUFFIX,pornhost.com
 DOMAIN-SUFFIX,poeditor.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,olympics.com
@@ -699,6 +710,7 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,slackhq.com
 DOMAIN-SUFFIX,scpwiki.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,redtube.com
@@ -708,6 +720,7 @@ DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,proporn.com
 DOMAIN-SUFFIX,pornoxo.com
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,porndig.com
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,picacgy.com
@@ -727,7 +740,9 @@ DOMAIN-SUFFIX,newsmax.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,moeload.com
 DOMAIN-SUFFIX,jotform.com
+DOMAIN-SUFFIX,javynow.com
 DOMAIN-SUFFIX,javwind.com
 DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,javdove.com
@@ -806,9 +821,11 @@ DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,pornmd.com
 DOMAIN-SUFFIX,pornhd.com
 DOMAIN-SUFFIX,porngo.com
+DOMAIN-SUFFIX,porn87.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,oculus.com
@@ -887,12 +904,15 @@ DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tesco.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,plurk.com
+DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,naver.com
