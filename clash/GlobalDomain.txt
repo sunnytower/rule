@@ -472,6 +472,7 @@ cdn.trustpilot.net
 +.nelreports.net
 cdn.macstories.net
 +.live-video.net
+cdn.iplocation.net
 +.hs-scripts.net
 +.gtranslate.net
 +.faceit-cdn.net
@@ -1529,6 +1530,7 @@ tags.nationwide.com
 +.myspacecdn.com
 r2cdn.myshopline.com
 +.myshopapps.com
+cdn.myfutanari.com
 +.myfilebase.com
 +.msftstatic.com
 +.media-imdb.com
@@ -1693,6 +1695,7 @@ agi.armorgames.com
 +.algolianet.com
 static.adguardvpn.com
 +.adguardcdn.com
+static.3dporndude.com
 cdn.zhujiwiki.com
 assets.zerohedge.com
 +.xhpingcdn.com
