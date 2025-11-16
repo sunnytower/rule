@@ -2,6 +2,7 @@ import requests
 urls = [
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list",
 "https://ruleset.skk.moe/List/domainset/cdn.conf",
+"https://ruleset.skk.moe/List/domainset/download.conf",
 ]
 result = []
 for url in urls:
