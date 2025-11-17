@@ -3,7 +3,7 @@ urls = [
 "https://ruleset.skk.moe/List/non_ip/domestic.conf",
 "https://ruleset.skk.moe/List/non_ip/direct.conf",
 ]
-result = []
+result = ["DOMAIN-SUFFIX,ctest.srv.nintendo.net"]
 for url in urls:
     resource_text = requests.get(url).text
     for item in resource_text.split("\n"):
@@ -13,4 +13,3 @@ for url in urls:
 
 with open("./surge/Direct.list", "w") as f:
     f.write("\n".join(result))
-    f.append("DOMAIN-SUFFIX,ctest.srv.nintendo.net")
