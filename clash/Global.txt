@@ -674,6 +674,7 @@ DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,everymac.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN,ees.elsevier.com
