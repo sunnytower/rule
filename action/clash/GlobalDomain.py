@@ -1,6 +1,7 @@
 import requests
 urls = [
-"https://ruleset.skk.moe/Clash/domainset/cdn.txt"
+"https://ruleset.skk.moe/Clash/domainset/cdn.txt",
+"https://ruleset.skk.moe/Clash/domainset/download.txt",
 ]
 result = []
 for url in urls:

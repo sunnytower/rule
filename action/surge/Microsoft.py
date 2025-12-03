@@ -1,6 +1,6 @@
 import requests
 urls = [
-"https://ruleset.skk.moe/List/non_ip/microsoft.conf",
+"https://ruleset.skk.moe/Clash/non_ip/microsoft.txt",
 ]
 result = []
 for url in urls:

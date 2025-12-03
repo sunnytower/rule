@@ -2,7 +2,9 @@ import requests
 urls = [
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list",
 "https://ruleset.skk.moe/Clash/non_ip/cdn.txt",
-"https://ruleset.skk.moe/Clash/non_ip/global.txt"
+"https://ruleset.skk.moe/Clash/non_ip/global.txt",
+"https://ruleset.skk.moe/Clash/non_ip/download.txt",
+"https://ruleset.skk.moe/Clash/non_ip/telegram.txt",
 ]
 result = []
 for url in urls:
